@@ -52,11 +52,15 @@ The electric vehicle (EV) rental industry is expanding but faces challenges with
 - Target customers: university and college students.
 
 ## Scaling
+### Business
 - we can expand the target customers from not just students of univerisities and colleges to societies making our services availiable for everyone to use 
 - Since we are using electric vehicles we can partner with electricity providers.
-- We can include more vehicles 
+- We can include more vehicles
+### Technology
 - The techologies can be scaled significantly, currently we use free and test services which can be replaced state of the arth srevices 
-- Substription services can be introduces 
+- Substription services can be introduces
+- SOC | VAPT Concepts to make the platform robust
+- Blockchain for the transactions from wallet
 
 ## References
 - https://developer.squareup.com/docs

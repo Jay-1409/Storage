@@ -61,6 +61,7 @@ The electric vehicle (EV) rental industry is expanding but faces challenges with
 - Substription services can be introduces
 - SOC | VAPT Concepts to make the platform robust
 - Blockchain for the transactions from wallet
+- 2 Factor Authentication 
 
 ## References
 - https://developer.squareup.com/docs

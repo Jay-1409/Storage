@@ -19,10 +19,7 @@ The electric vehicle (EV) rental industry is expanding but faces challenges with
 - Data is encrypted using SHA256 and stored in the database.
 - Users provide camera permissions for face verification and liveliness checks (e.g., blinking three times).
 - The KYC scan results are sent for manual approval. Flagged scans are reviewed separately to minimize compliance workload.
-### Face matching and liveliness check 
-- Tesseract for OCR (OPTICAL CHARACTER RECOGNITION) 
-- Open CV
-
+- 
 ### Wallet and Payments
 - Users deposit money into a wallet before booking EVs from nearby stations.
 - Rental costs are calculated using the formula: `Cost = Fixed_Cost * minutes_used / 60`.
@@ -44,6 +41,7 @@ The electric vehicle (EV) rental industry is expanding but faces challenges with
 - **OTP and Notification Service**: Twilio
 - **Payment Service**: Square
 - **Data base**:MongoDB
+- **Face matching and liveliness check** Tesseract for OCR (OPTICAL CHARACTER RECOGNITION) and Open CV
 
 ## Business Model
 - Offers scooter, bike, and car rentals.
